@@ -21,7 +21,7 @@ Arquivo de configuração do Streamlit (ex.: cores, tema, fonte).
 - requirements.txt
 Lista os pacotes necessários (ex.: streamlit, pandas, plotly) para rodar o projeto.
 
-## 🧪 Tecnologias e Bibliotecas
+## ⚙️ Tecnologias e Bibliotecas
 
 - Python 3
 - Pandas
