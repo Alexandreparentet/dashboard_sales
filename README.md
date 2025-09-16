@@ -8,8 +8,11 @@ Este projeto utiliza dados de uma empresa de vendas de produtos online, acessado
 Arquivo principal do app Streamlit.
 Nele você faz:
   - Leitura e tratamento dos dados (groupby, merge, agg, etc).
+  
   -Criação de tabelas de receita, vendas e categorias.
+
   -Criação de gráficos (plotly.express: mapas, linhas, etc).
+
   -Organização em seções (### Tabelas, ## Gráficos).
 
 - Dados_brutos.py (dentro da pasta pages/)
